@@ -570,7 +570,7 @@ button{
     }
 
     .internshipTop h1 {
-        font-size: 16px;
+        font-size: 20px;
         font-weight: 300;
     }
 
@@ -593,6 +593,7 @@ button{
 
     .work {
         height: 100%;
+        margin-bottom: 80px;
     }
 
     .workTop {
@@ -607,12 +608,12 @@ button{
     }
 
     .workBottom {
-        gap: 10px;
+        gap: 15px;
     }
 
     .projectImg {
-        height: 180px;
-        width: 155px;
+        height: 190px;
+        width: 150px;
         transition: none;
     }
 
@@ -636,8 +637,8 @@ button{
     }
 
     .socialLinks {
-        margin: 80px 0 50px 0;
-        margin-left: -45px;
+        margin: 70px auto;
+        margin-left: 0;
     }
 
     .linkedIn h1,
@@ -655,6 +656,7 @@ button{
 
     textarea {
         font-size: 16px;
+        max-width: 315px;
     }
 
     input:focus,
